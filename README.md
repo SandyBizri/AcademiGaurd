@@ -25,6 +25,10 @@ It classifies students into **Low Risk** or **At Risk** and provides a probabili
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Run the main program
+
+```bash
 python main.py
+```
