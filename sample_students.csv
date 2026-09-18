@@ -1,0 +1,5 @@
+id,name,G1,G2,absences,failures,higher,internet,studytime
+STU001,Alice,12,14,5,0,yes,yes,2
+STU002,Bob,7,6,12,2,no,no,1
+STU003,Charlie,10,9,3,0,yes,yes,2
+STU004,Diana,4,5,15,3,no,yes,1
